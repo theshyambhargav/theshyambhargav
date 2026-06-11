@@ -1,6 +1,6 @@
 # Shyam Bhargav
 
-**CS Graduate · AI/ML · Full-Stack · Aspiring Master's Candidate**
+**CS Graduate · AI/ML · Full-Stack Developer**
 
 ---
 
