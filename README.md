@@ -1,40 +1,47 @@
 # Shyam Bhargav
 
-**CS Graduate · AI/ML · Full-Stack Developer**
+**Consultant for Business Automation · Full-Stack Developer · AI/ML Enthusiast · CS Graduate**
 
 ---
 
-I build things that work — and then I try to understand precisely why they work.
+I build things that work — and I build them to solve problems that matter.
 
-My undergraduate years at KSV University gave me a solid grounding in computer science fundamentals, but it was the projects I built outside the syllabus that sharpened my instincts as an engineer. I am now preparing to pursue a Master's degree in Artificial Intelligence, with the intention of moving from applied practice toward a deeper theoretical command of the field.
+My interest is not in fitting into systems. It is in designing them. Whether that means engineering a production-grade application, automating an operational bottleneck for a business, or architecting something entirely new — I approach every problem with the same disposition: rigorous, deliberate, and oriented toward the useful.
 
 ---
 
-### Featured projects
+### What I have built
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Grabbit Downloader](https://github.com/theshyambhargav) | Cross-platform media downloader with real-time SSE progress | Flask · yt-dlp · FFmpeg · Gunicorn |
-| [Clarrix-AI](https://github.com/theshyambhargav) | Modular AI assistant with voice interaction | Flask · JS · Gemini 2.5 API |
+| [Clarrix-AI](https://github.com/theshyambhargav/clarrix-ai) | Modular LLM-powered assistant with voice interaction & real-time reasoning | Flask · Gemini 2.5 API · JavaScript |
+| [Grabbit](https://github.com/theshyambhargav/grabbit-downloader) | Cross-platform media downloader with real-time SSE progress | Flask · yt-dlp · FFmpeg · Gunicorn |
 
 ---
 
 ### What I know well
-- Backend: Python, Flask, PHP, MySQL
-- Frontend: JavaScript, HTML, CSS
-- Tools: Git, FFmpeg, Linux, REST APIs
+- **Backend:** Python, Flask, PHP, MySQL, MongoDB, Oracle DB
+- **Frontend:** JavaScript, HTML, CSS
+- **AI / ML:** Gemini API, Prompt Engineering, LLM Integration, NumPy, Pandas, Matplotlib
+- **Tools:** Git, FFmpeg, Linux, REST APIs, SSE, Gunicorn, Nginx
 
-### What I am learning
-- Machine learning — moving beyond the API call toward the mathematics beneath it
-- Probability, statistics, and the foundations that graduate study demands
+### What I am building toward
+- AI and automation solutions for small and mid-sized businesses
+- Independent consulting and purposeful technical ventures
+- Products that create leverage — for clients, for teams, for people
 
 ---
 
 ### A few things about me
-- Participated in the **Bharatiya Antariksh Hackathon 2025** (ISRO) — certificate of acknowledgement
+- CS Graduate from KSV University, Gandhinagar
 - Full-Stack Developer intern at **Skyway IT Solutions** (Jan–Mar 2026)
-- I train six days a week — discipline in the gym translates to discipline at the desk
-- Based in **Gandhinagar, India** · Open to opportunities worldwide
+- Participated in the **Bharatiya Antariksh Hackathon 2025** (ISRO) — certificate of acknowledgement
+- Community Outreach Coordinator at **ISKCON Gandhinagar** (May 2023 – Present)
+- Based in **Gandhinagar, India** · Open to collaborations and consulting worldwide
+
+---
+
+> *I do not seek a role. I seek problems worth solving.*
 
 ---
 
