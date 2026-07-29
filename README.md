@@ -41,7 +41,7 @@ My interest is not in fitting into systems. It is in designing them. Whether tha
 
 ---
 
-> *I do not seek a role. I seek problems worth solving.*
+> *I seek opportunities and problems worth solving.*
 
 ---
 
